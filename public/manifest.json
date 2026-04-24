@@ -1,0 +1,17 @@
+{
+  "name": "QuizFlow AI",
+  "short_name": "QuizFlow",
+  "description": "AI-Powered Quiz Generation and Learning Platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3407/3407024.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
